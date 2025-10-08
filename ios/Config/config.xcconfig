@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Mobile Inspection App
+BUNDLE_IDENTIFIER = com.tax.inspection.app
+
+RUNTIME_URL = http:\/\/adevinfinmaa1.tax.ae/
+
+PRODUCT_NAME = MobileInspectio
+
+HERMES_ENABLED = NO
