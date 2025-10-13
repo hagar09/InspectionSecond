@@ -174,6 +174,8 @@ def get_react_native_config
   json = []
   IO.popen(["node", cli_result, "config"]) do |data|
     while line = data.gets
+      # Filter out non-JSON lines (info messages, warnings, errors, etc.)
+      next if line.strip.start_with?("info ", "warn ", "error ", "[")
       json << line
     end
   end
