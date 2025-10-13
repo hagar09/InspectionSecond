@@ -613,7 +613,7 @@
 				CODE_SIGN_ENTITLEMENTS = nativeTemplate/nativeTemplate.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 2087;
+				CURRENT_PROJECT_VERSION = 2088;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 8YS4F88X9J;
@@ -673,7 +673,7 @@
 					"$(PROJECT_DIR)",
 				);
 				MACH_O_TYPE = mh_execute;
-				MARKETING_VERSION = 10.1.33;
+				MARKETING_VERSION = 10.1.34;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -701,7 +701,7 @@
 				CODE_SIGN_ENTITLEMENTS = nativeTemplate/nativeTemplate.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 2087;
+				CURRENT_PROJECT_VERSION = 2088;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 8YS4F88X9J;
 				ENABLE_BITCODE = "$(inherited)";
@@ -760,7 +760,7 @@
 					"$(PROJECT_DIR)",
 				);
 				MACH_O_TYPE = mh_execute;
-				MARKETING_VERSION = 10.1.33;
+				MARKETING_VERSION = 10.1.34;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -947,7 +947,7 @@
 				CODE_SIGN_ENTITLEMENTS = nativeTemplate/nativeTemplate.entitlements;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 2087;
+				CURRENT_PROJECT_VERSION = 2088;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 8YS4F88X9J;
 				ENABLE_BITCODE = "$(inherited)";
@@ -1006,7 +1006,7 @@
 					"$(PROJECT_DIR)",
 				);
 				MACH_O_TYPE = mh_execute;
-				MARKETING_VERSION = 10.1.33;
+				MARKETING_VERSION = 10.1.34;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
