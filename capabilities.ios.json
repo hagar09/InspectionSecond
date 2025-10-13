@@ -1,8 +1,8 @@
 {
     "deepLink": false,
-    "firebaseIos": false,
+    "firebaseIos": true,
     "firebaseAndroid": false,
-    "crashlytics": false,
+    "crashlytics": true,
     "localNotifications": false,
     "pushNotifications": false,
     "appCenterOTA": false,
