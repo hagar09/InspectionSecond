@@ -1,6 +1,6 @@
 {
     "deepLink": false,
-    "firebaseIos": false,
+    "firebaseIos": true,
     "firebaseAndroid": false,
     "crashlytics": false,
     "localNotifications": false,
